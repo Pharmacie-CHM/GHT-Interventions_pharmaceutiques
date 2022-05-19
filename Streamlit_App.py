@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
 
-logo = st.sidebar.image('logo_chm.png')
-st.sidebar.caption("Guide d'analyse pharmacothérapeutique chez le patient MUPA.")
+logo = st.sidebar.image('Logo_GHT72')
+st.sidebar.caption("Thesaurus des interventions pharmaceutiques du GHT72 - Groupe Pharmacie clinique")
 
 data_frame = pd.read_csv('Analyse Pharmacotherapeutique File.csv')
 data_frame.set_index('Index', inplace=True)

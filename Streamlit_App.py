@@ -4,7 +4,7 @@ import pandas as pd
 logo = st.sidebar.image('Logo_GHT72.png')
 st.sidebar.caption("Thesaurus des interventions pharmaceutiques du GHT72 - Groupe Pharmacie clinique")
 
-data_frame = pd.read_csv('Analyse Pharmacotherapeutique File.csv')
+data_frame = pd.read_csv('Tableau IP GHT72 - App source.csv')
 data_frame.set_index('Index', inplace=True)
 
 liste_medoc = [str(medoc) for medoc in set(data_frame.index)]

@@ -30,4 +30,4 @@ if st.sidebar.button("Ajouter le médicament"):
                        compteur += 1
 
                for i in range(compteur):
-                   txt = st.text_area(f"{data_frame.loc[{option}, 'Condition'][i]}", f"{data_frame.loc[{option}, 'Paragraphe'][i]}", max_chars=500)
+                   txt = st.text_area(f"{data_frame.loc[{option}, 'Situation'][i]}", f"{data_frame.loc[{option}, 'Paragraphe'][i]}")

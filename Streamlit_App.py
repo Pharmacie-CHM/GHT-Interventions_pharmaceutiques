@@ -19,11 +19,11 @@ option = st.sidebar.selectbox(
 col1, col2 = st.columns(2)
 
 if st.sidebar.button("Ajouter le médicament"):
-     col1.subheader('Liste des prescriptions')
+     col1.subheader('Liste des médicaments')
      col1.write(option)
      with col2 :
-          st.subheader('À adapter selon le contexte')
-          with st.expander("Commentaires"):                                  
+          st.subheader('Intervention pharmaceutiques - à adapter selon contexte')
+          with st.expander("Interventions"):                                  
                compteur = 0
                for i in data_frame.index: 
                    if i == option:

@@ -34,4 +34,4 @@ with col2 :
                  compteur += 1
 
          for i in range(compteur):
-             txt = st.text_area(f"{data_frame.loc[{option}, 'Situation'][i]}", f"{data_frame.loc[{option}, 'Paragraphe'][i]}")
+             txt = st.text_area(f"{data_frame.loc[{option}, 'Situation'][i]}", f"{data_frame.loc[{option}, 'Paragraphe'][i]}", key = option)

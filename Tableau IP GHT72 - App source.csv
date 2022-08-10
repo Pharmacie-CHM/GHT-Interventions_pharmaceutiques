@@ -1,273 +1,188 @@
-Index,Situation,Paragraphe,,,,,,,,,,
-# Choisir un médicament,,,,,,,,,,,,
-Acénocoumarol,AVK : prescrit 2 fois par jour,"Ne pas diviser la posologie d'AVK en 2 fois par jour.
-Privilégier la prise en 1 fois par jour.",,,,,,,,,,
-Acénocoumarol,INR inférieur à la cible. Proposer une adaptation posologique selon THROMBOCLIC,INR trop bas selon cible (2-3). Augmenter la posologie à …mg/j,,,,,,,,,,
-Acénocoumarol,INR supérieur à la cible. Proposer une adaptation posologique selon THROMBOCLIC,INR trop élevé selon cible (2-3). Diminuer la posologie à ….mg/jour,,,,,,,,,,
-Acénocoumarol,"Initiation AVK. 
-Evaluer la possibilité d'un traitement par AOD en première intention (pas de valve mécanique)","Lors d'une initiation d'anticoagulant, les dernières recommandations pour la FA sont de privilégier un AOD en première intention. Si ce n'est pas envisageable, faire le score SAMe-TT2R2, pour évaluer la faisabilité d'un traitement par AVK pour ce patient.",,,,,,,,,,
-Acénocoumarol,"Equilibre INR difficile à obtenir. 
- (pas de valve mécanique)",L'INR du patient est difficile à équilibrer. Envisager un switch vers AOD. Voir Thromboclic pour le switch,,,,,,,,,,
-AD,Association de 2 antidépresseurs (ex : Mirtazapine / Paroxétine) ,L'association de 2 antidépresseurs n'est pas recommandée. Privilégier 1 seul antidépresseur à posologie maximale. ,,,,,,,,,,
-AD,Association de 2 antidépresseurs (ex : Mirtazapine / Paroxétine) ,L'association de 2 antidépresseurs n'est pas recommandée. Privilégier 1 seul antidépresseur à posologie maximale. ,,,,,,,,,,
-Alprazolam ,Prescription d’une BZD à pleine dose chez un sujet âgé ,Une demi-dose est recommandée chez le sujet âgé : max 1mg/jour ,,,,,,,,,,
-Apixaban ,"Posologie non adaptée à l'indication : 
-5mg x 2/jour dans le traitement d'initiation d'une TVP/EP ","La posologie recommandée dans le traitement d'une TVP / EP est de 10mg X 2/jour pendant 7 jours suivie par une prolongation de 5mg x 2/jour pendant 6 mois puis 2,5mg x 2/jour",,,,,,,,,,
-Apixaban ,"Posologie non adaptée à l'indication : 
-5mg x 2/jour en prévention des ETEV après prothèse de genou ou de hanche ","La posologie recommandée en prévention des ETEV après prothèse de genou ou de hanche est de 2,5mg x 2/jour à poursuivre pendant 32 à 38 jours",,,,,,,,,,
-Apixaban ,"Prescription à 5mg x 2/jour (indication FA) et présence de 2 facteurs de risque (Age > 80 ans, Poids < 60kg, Créatinine sérique > 133µmol) ","Au vu des facteurs de risque du patient (…./….), la posologie recommandée est de 2,5mg x 2/jour ",,,,,,,,,,
-Apixaban ,"Prescription à 2,5mg x 2/jour (indication FA) avec 1 facteur de risque ou sans facteur",La posologie recommandée chez ce patient est de 5mg x 2/jour (risque thrombotique),,,,,,,,,,
-Apixaban ,"Posologie non adaptée à la fonction rénale : 
-5mg x 2/jour chez un patient avec Clr comprise entre 15 et 30mL/min ","La posologie recommandée chez ce patient présentant une clairance rénale à …. est de 2,5mg x2/jour. ",,,,,,,,,,
-Apixaban ,Prescription chez un patient avec une clairance rénale <  15mL/min ,La prescription d'Apixaban n'est pas recommandée chez ce patient au vu de sa clairance rénale : switch par Calciparine 500UI/kg/jour ? ,,,,,,,,,,
-Apixaban ,Prescription AOD pour TVP/EP sans durée de traitement,"La posologie recommandée dans le traitement d'une TVP / EP est de 10mg X 2/jour pendant 7 jours suivie par une prolongation de 5mg x 2/jour pendant 6 mois puis 2,5mg x 2/jour. Préciser la durée de traitement.",,,,,,,,,,
-Apixaban ,Comprimés écrasés et mélangés à de l'eau ou compote de pomme ou jus de pomme ou glucose 5%,Pas d'IP ,,,,,,,,,,
-Apixaban ,Administration par une sonde gastrique ,"Pas d'IP : les comprimés doivent être écrasés et mis en suspension dans 60 ml d’eau ou dans du glucose à 5 %, et
-immédiatement administrés par une sonde nasogastrique.",,,,,,,,,,
-Apixaban ,Prescription d'AOD en prévention ETEV en post chirurgie autres que genou et hanche ,La prescription d'un AOD n'est pas recommandée dans ce type de chirurgie (ils ont démontré leurs intérêts dans les PTH et les PTG). Est-il possible de revoir cette thromboprophylaxie ? ,,,,,,,,,,
-Apixaban ,Prescription concomitante d'héparine et d'AOD ,Le relai AOD - héparine doit se faire à l'heure prévue de la dose suivante d'AOD : jamais AOD et héparine en concomitance ,,,,,,,,,,
-Apixaban ,Prescription concomitante d'héparine et d'AOD ,Le relai héparine - AOD doit se faire à l'heure prévue de la dose suivante d'héparine : jamais AOD et héparine en concomitance ,,,,,,,,,,
-Apixaban ,Prescription concomitante d'AVK et AOD lors d'un relai AVK - AOD ,Il est recommandé d'arrêter l'AVK et de commencer l'Apixaban quand INR < 2 ,,,,,,,,,,
-Aripiprazole ,Relai forme oral et IM ,Le traitement par aripiprazole doit être poursuivi pendant 14 jours après la première injection d'aripiprazole : il est conseillé de mettre une date de fin pour l'aripiprazole oral pour éviter un surdosage.,,,,,,,,,,
-Bromazépam,Prescription d’une BZD à pleine dose chez un sujet âgé ,Une demi-dose est recommandée chez le sujet âgé : max 3mg/jour ,,,,,,,,,,
-BZD ,Prescription d’une BZD à demi-vie longue chez un sujet âgé à visée anxiolytique,Préférer les BZD à demi-vie courte chez le sujet âgé (Oxazépam/Alprazolam à posologie minimale efficace),,,,,,,,,,
-BZD ,Prescription d’une BZD à demi-vie longue chez un sujet âgé à visée hypnotique,Préférer les BZD à demi-vie courte chez le sujet âgé (Zolpidem ou Zopiclone à demi-dose),,,,,,,,,,
-BZD ,Association de deux BZD ou d’une BZD et d’un hypnotique ,"Il n'est pas recommandé d'associer …  avec … : même mécanisme d’action, proposer suppression d’une des 2 lignes ",,,,,,,,,,
-BZD ,"Décroissance de dose de BZD 
-(Ex : de lorazépam 2.5 mg/jour à 1 mg/jour)
-,Décroître par palier de façon très progressive. (Par exemple Lorazépam : faire un palier à 2 mg/jour, puis un palier à 1.5 mg/jour, avant de passer à 
-1 mg/jour). Souvent initiation de la décroissance en hospitalisation et information dans la lettre de liaison. 
-https://deprescribing.org/wp-content/uploads/2018/05/deprescribing-algorithm-benzodiazepines-2018-fr.pdf
-",,,,,,,,,,
-BZD ,BZD et Apnée du sommeil ,Dans le contexte d'apnée du sommeil, il est conseillé d'arrêter la benzodiazépine progressivement."",,,,,,,,,,"
-Charge anticholinergique ,Effets indésirables anticholinergiques,"La charge anticholinergique de ce patient calculée avec les échelles CIA et ACb est respectivement de :
-Score CIA (impregnation cholinergique/ effets périphériques) = ...., considéré élevé si supérieur ou égal à 5.
-Score ACB (effets centraux) = ...., considéré élevé si supérieur ou égal à 4.
-Médicaments en cause :
-- ....
-- ....
-Est-il possible de réévaluer ce traitement ? ",,,,,,,,,,
-Citalopram,Médicament torsadogène + citalopram/escitalopram,"Pour info, l'association escitalopram + cyamemazine est CI : risque majoré de troubles du rythme ventriculaire, notamment de torsades de pointes. 
-Proposition de substitution par sertraline/miansérine ou arrêt du médicament torsadogène ",,,,,,,,,,
-Clobazam,Prescription d’une BZD à pleine dose chez un sujet âgé ,Une demi-dose est recommandée chez le sujet âgé : max 15mg/jour ,,,,,,,,,,
-Clorazépate,Prescription d’une BZD à pleine dose chez un sujet âgé ,Une demi-dose est recommandée chez le sujet âgé : max 15mg/jour ,,,,,,,,,,
-Clozapine,Pas de suivi de la NFS ,Il est recommandé de réaliser une NFS à l'initiation : 1 fois par semaine pendant 18 semaines puis 1 fois par mois (risque de neutropénie) ,,,,,,,,,,
-Dabigatran,Prescription à 150mg x 2/jour (indication FA) chez un patient avec un âge > 80ans ou une Clr entre 30 et 50mL/min ou une gastro-oesophagite/RG ou associé avec une prescription de Vérapamil ,La posologie recommandée chez ce patient est de 110mg x 2/jour ,,,,,,,,,,
-Dabigatran,Prescription à 110mg x 2/jour (indication FA) sans facteur de risque,La posologie recommandée chez ce patient est de 150mg x 2/jour (risque thrombotique),,,,,,,,,,
-Dabigatran,Prescription chez un patient avec une clairance rénale <  15mL/min ,La prescription de Dabigatran n'est pas recommandée chez ce patient au vu de sa clairance rénale : switch par Calciparine 500UI/kg/jour  ? ,,,,,,,,,,
-Dabigatran,Prescription d'AOD en prévention ETEV en post chirurgie autres que genou et hanche ,La prescription d'un AOD n'est pas recommandée dans ce type de chirurgie (ils ont démontré leurs intérêts dans les PTH et les PTG). Est-il possible de revoir cette thromboprophylaxie ? ,,,,,,,,,,
-Dabigatran,Prescription concomitante d'héparine et d'AOD ,Le relai AOD - héparine doit se faire à l'heure prévue de la dose suivante d'AOD : jamais AOD et héparine en concomitance ,,,,,,,,,,
-Dabigatran,Prescription concomitante d'héparine et d'AOD ,Le relai héparine - AOD doit se faire à l'heure prévue de la dose suivante d'héparine : jamais AOD et héparine en concomitance ,,,,,,,,,,
-Dabigatran ,Prescription de Vérapamil à distance de la prise de Dabigatran 110mg x 2 /jour ,Les 2 médicaments doivent être pris simultanément.,,,,,,,,,,
-Dabigatran ,Ouverture des gélules ,"Les gélules doivent être avalées entières avec un verre d'eau pour faciliter la distribution dans l'estomac, elles ne doivent pas être ouvertes, car cela pourrait augmenter le risque de saignement.",,,,,,,,,,
-Dabigatran ,Prescription concomitante d'AVK et AOD lors d'un relai AVK - AOD ,Il est recommandé d'arrêter l'AVK et de commencer le Dabigatran quand INR < 2 ,,,,,,,,,,
-Dapagliflozine ,HbA1c trop basse par rapport à objectif HbA1c <…%,"L'objectif d'HbA1c pour ce patient est de… %
-Revoir la pertinence du maintien de la thérapeutique antidiabétique. ",,,,,,,,,,
-Dapagliflozine ,Dernière HbA1c > 6 mois,"La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … %
-Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Dapagliflozine ,Diabète non équilibré (HbA1C > normes) ,"Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … 
-Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Dapagliflozine ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies,,,,,,,,,,
-Dapagliflozine ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète.",,,,,,,,,,
-Dapagliflozine ,Posologie initiale non adaptée en cas d'IH sévère,La posologie initiale recommandée chez l'IH sévère est de 5mg au lieu de 10mg. ,,,,,,,,,,
-Dapagliflozine ,Posologie non adaptée à la fonction rénale : Cl<60mL/min ,"Dans le traitement du diabète, il est recommandé de ne pas initier la Dapagliflozine chez le patient ayant une Cl <60ml/min et d'arrêter si la Cl est <45ml/min de manière constante",,,,,,,,,,
-Diazépam,Prescription d’une BZD à pleine dose chez un sujet âgé ,Une demi-dose est recommandée chez le sujet âgé : max 10mg/jour ,,,,,,,,,,
-Dulaglutide,Prescription 1x/jour ,"Le rythme d'administration est d'une injection de 1,5mg  1x/semaine (0,75mg en monothérapie NR) 
-Ne pas prescrire en stylo mais en mg. ",,,,,,,,,,
-Dulaglutide ,HbA1c trop basse par rapport à objectif HbA1c <…%,"L'objectif d'HbA1c pour ce patient est de… %
-Revoir la pertinence du maintien de la thérapeutique antidiabétique. ",,,,,,,,,,
-Dulaglutide ,Dernière HbA1c > 6 mois,"La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … %
-Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Dulaglutide ,Diabète non équilibré (HbA1C > normes) ,"Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … 
-Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Dulaglutide ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies,,,,,,,,,,
-Dulaglutide ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète.",,,,,,,,,,
-Escitalopram,Médicament torsadogène + citalopram/escitalopram,"Pour info, l'association escitalopram + cyamemazine est CI : risque majoré de troubles du rythme ventriculaire, notamment de torsades de pointes. 
-Proposition de substitution par sertraline/miansérine ou arrêt du médicament torsadogène ",,,,,,,,,,
-Exénatide ,HbA1c trop basse par rapport à objectif HbA1c <…%,"L'objectif d'HbA1c pour ce patient est de… %
-Revoir la pertinence du maintien de la thérapeutique antidiabétique. ",,,,,,,,,,
-Exénatide ,Dernière HbA1c > 6 mois,"La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … %
-Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Exénatide ,Diabète non équilibré (HbA1C > normes) ,"Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … 
-Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Exénatide ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies,,,,,,,,,,
-Exénatide ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète.",,,,,,,,,,
-Exénatide (BYETTA®) ,Prescription 1x/semaine,Le rythme d'administration du BYETTA® est d'une injection de 5 ou 10µg 2x/jour.,,,,,,,,,,
-Exénatide forme retard (BYDUREON®) ,Prescription 1x/jour ,Le rythme d'administration du BYDUREON® est d'une injection de 2mg 1x/semaine.,,,,,,,,,,
-Fluindione,AVK : prescrit 2 fois par jour,"Ne pas diviser la posologie d'AVK en 2 fois par jour.
-Privilégier la prise en 1 fois par jour.",,,,,,,,,,
-Fluindione,INR inférieur à la cible. Proposer une adaptation posologique selon THROMBOCLIC,INR trop bas selon cible (2-3). Augmenter la posologie à …mg/j,,,,,,,,,,
-Fluindione,INR supérieur à la cible. Proposer une adaptation posologique selon THROMBOCLIC,INR trop élevé selon cible (2-3). Diminuer la posologie à ….mg/jour,,,,,,,,,,
-Fluindione,"Initiation Fluindione. 
-Plus recommandée depuis 2018","Il n'est plus recommandé d'initier un traitement par fluindione depuis 2018 (cf lien : ""la spécialité PREVISCAN est à présent réservée au renouvellement du traitement des patients équilibrés par fluindione. L'initiation de traitement par PREVISCAN n'est plus autorisée à partir du 1er décembre 2018"" : https://ansm.sante.fr/informations-de-securite/Traitement-par-antivitamines-K-AVK-nouvelles-informations)
-Risque anaphylactique",,,,,,,,,,
-Fluindione,"Equilibre INR difficile à obtenir. 
- (pas de valve mécanique)",L'INR du patient est difficile à équilibrer. Envisager un switch vers AOD. Voir Thromboclic pour le switch,,,,,,,,,,
-Glibenclamide,HbA1c trop basse par rapport à objectif HbA1c <…%,"L'objectif d'HbA1c pour ce patient est de… %
-Revoir la pertinence du maintien de la thérapeutique antidiabétique. ",,,,,,,,,,
-Glibenclamide,Dernière HbA1c > 6 mois,"La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … %
-Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Glibenclamide,Diabète non équilibré (HbA1C > normes) ,"Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … 
-Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Glibenclamide,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies,,,,,,,,,,
-Glibenclamide,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète.",,,,,,,,,,
-Glibenclamide,Association avec Répaglinide ,"Association contre-indiquée  (risque majoré d'hypoglycémie), le Répaglinide est à associer généralement avec la Metformine. ",,,,,,,,,,
-Glibenclamide,Prescription chez la personne âgée ,Les sulfamides hypoglycémiants (notamment Glibenclamide = sulfamide à longue durée d'action) sont des médicaments potentiellement inappropriés chez le sujet âgé car risque accru d'hypoglycémies sévères. Revoir la thérapeutique antidiabétique selon objectif HbA1c de de ce patient.,,,,,,,,,,
-Gliclazide ,HbA1c trop basse par rapport à objectif HbA1c <…%,"L'objectif d'HbA1c pour ce patient est de… %
-Revoir la pertinence du maintien de la thérapeutique antidiabétique. ",,,,,,,,,,
-Gliclazide ,Dernière HbA1c > 6 mois,"La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … %
-Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Gliclazide ,Diabète non équilibré (HbA1C > normes) ,"Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … 
-Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Gliclazide ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies,,,,,,,,,,
-Gliclazide ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète.",,,,,,,,,,
-Gliclazide ,Association avec Répaglinide ,"Association contre-indiquée (risque majoré d'hypoglycémie), le Répaglinide est à associer généralement avec la Metformine. ",,,,,,,,,,
-Gliclazide ,Prescription chez la personne âgée ,Les sulfamides hypoglycémiants sont des médicaments potentiellement inappropriés chez le sujet âgé car risque accru d'hypoglycémies sévères. Revoir la thérapeutique antidiabétique selon objectif HbA1c de de ce patient.,,,,,,,,,,
-Glimépiride ,HbA1c trop basse par rapport à objectif HbA1c <…%,"L'objectif d'HbA1c pour ce patient est de… %
-Revoir la pertinence du maintien de la thérapeutique antidiabétique. ",,,,,,,,,,
-Glimépiride ,Dernière HbA1c > 6 mois,"La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … %
-Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Glimépiride ,Diabète non équilibré (HbA1C > normes) ,"Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … 
-Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Glimépiride ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies,,,,,,,,,,
-Glimépiride ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète.",,,,,,,,,,
-Glimépiride ,Association avec Répaglinide ,"Association contre-indiquée  (risque majoré d'hypoglycémie), le Répaglinide est à associer généralement avec la Metformine. ",,,,,,,,,,
-Glimépiride ,Prescription chez la personne âgée ,Les sulfamides hypoglycémiants sont des médicaments potentiellement inappropriés chez le sujet âgé car risque accru d'hypoglycémies sévères. Revoir la thérapeutique antidiabétique selon objectif HbA1c de de ce patient.,,,,,,,,,,
-Hydroxyzine ,Prescription d'Hydroxyzine chez un sujet âgé,Hydroxyzine non recommandée chez le sujet âgé  => préférer l’usage de BZD à demi-vie courte (Ex : oxazépam),,,,,,,,,,
-Hydroxyzine ,Médicament torsadogène + hydroxyzine (indiqué en hypnotique),Proposition d'arrêt de l'Hydroxyzine (éventuellement substitution par une benzodiazépine à demi-vie courte (Oxazépam - posologie minimale efficace)),,,,,,,,,,
-Hydroxyzine ,Médicament torsadogène + hydroxyzine (indiqué en anxiolytique),Proposition de substitution par une benzodiazépine (si traitement de courte durée) ou envisager l'arrêt,,,,,,,,,,
-Insuline asparte,HbA1c trop basse par rapport à objectif HbA1c <…%,"L'objectif d'HbA1c pour ce patient est de… %
-Revoir la pertinence du maintien de la thérapeutique antidiabétique. ",,,,,,,,,,
-Insuline asparte,Dernière HbA1c > 6 mois,"La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … %
-Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Insuline asparte,Diabète non équilibré (HbA1C > normes) ,"Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … 
-Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Insuline asparte,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies,,,,,,,,,,
-Insuline asparte,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète.",,,,,,,,,,
-Insuline déglutec,HbA1c trop basse par rapport à objectif HbA1c <…%,"L'objectif d'HbA1c pour ce patient est de… %
-Revoir la pertinence du maintien de la thérapeutique antidiabétique. ",,,,,,,,,,
-Insuline déglutec,Dernière HbA1c > 6 mois,"La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … %
-Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Insuline déglutec,Diabète non équilibré (HbA1C > normes) ,"Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … 
-Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Insuline déglutec,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies,,,,,,,,,,
-Insuline déglutec,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète.",,,,,,,,,,
-Insuline détémir ,HbA1c trop basse par rapport à objectif HbA1c <…%,"L'objectif d'HbA1c pour ce patient est de… %
-Revoir la pertinence du maintien de la thérapeutique antidiabétique. ",,,,,,,,,,
-Insuline détémir ,Dernière HbA1c > 6 mois,"La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … %
-Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Insuline détémir ,Diabète non équilibré (HbA1C > normes) ,"Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … 
-Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Insuline détémir ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies,,,,,,,,,,
-Insuline détémir ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète.",,,,,,,,,,
-Insuline glargine ,HbA1c trop basse par rapport à objectif HbA1c <…%,"L'objectif d'HbA1c pour ce patient est de… %
-Revoir la pertinence du maintien de la thérapeutique antidiabétique. ",,,,,,,,,,
-Insuline glargine ,Dernière HbA1c > 6 mois,"La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … %
-Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Insuline glargine ,Diabète non équilibré (HbA1C > normes) ,"Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … 
-Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Insuline glargine ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies,,,,,,,,,,
-Insuline glargine ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète.",,,,,,,,,,
-Insuline glargine ,Prescription 2x/jour ,Pas d'IP (15% patients stabilisés par insuline lente en 2/jour),,,,,,,,,,
-Liraglutide,Prescription 1x/semaine,"Le rythme d'administration du Liraglutide est d'une injection de 0,6 / 1,2 / 1,8mg 1x/jour. ",,,,,,,,,,
-Liraglutide ,HbA1c trop basse par rapport à objectif HbA1c <…%,"L'objectif d'HbA1c pour ce patient est de… %
-Revoir la pertinence du maintien de la thérapeutique antidiabétique. ",,,,,,,,,,
-Liraglutide ,Dernière HbA1c > 6 mois,"La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … %
-Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Liraglutide ,Diabète non équilibré (HbA1C > normes) ,"Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … 
-Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Liraglutide ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies,,,,,,,,,,
-Liraglutide ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète.",,,,,,,,,,
-Lorazépam,Prescription d’une BZD à pleine dose chez un sujet âgé ,"Une demi-dose est recommandée chez le sujet âgé : max 3,75mg/jour ",,,,,,,,,,
-Lormétazépam,Prescription d’une BZD à pleine dose chez un sujet âgé ,Une demi-dose est recommandée chez le sujet âgé : max 1mg/jour ,,,,,,,,,,
-Metformine ,HbA1c trop basse par rapport à objectif HbA1c <…%,"L'objectif d'HbA1c pour ce patient est de… %
-Revoir la pertinence du maintien de la thérapeutique antidiabétique. ",,,,,,,,,,
-Metformine ,Dernière HbA1c > 6 mois,"La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … %
-Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Metformine ,Diabète non équilibré (HbA1C > normes) ,"Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … 
-Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Metformine ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies,,,,,,,,,,
-Metformine ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète.",,,,,,,,,,
-Metformine ,"Apparition de troubles digestifs (nausées, diarrhées, douleurs abdo.) après instauration de la Metformine ","Les troubles digestifs après instauration de la Metformine sont dose dépendants, souvent transitoires et prévenus par la prise au cours des repas, l'augmentation progressive des doses, l'association à des antispasmodiques ou des pansements digestifs. Il est conseillé l'arrêt de la prescription si persistance. L'augmentation progressive des doses doit être faite jusqu'à la dose maximale tolérée (selon les troubles digestifs).",,,,,,,,,,
-Metformine ,Posologie non adaptée à la fonction rénale ,"La posologie recommandée de Metformine pour ce patient avec une clairance rénale de … est de : 
-- 45mL/min < Cl < 60mL/min : posologie maximale : 2000 mg/j en 2 ou 3 prises
-- 30 < Cl < 45mL/min : posologie maximale : 1000 mg/j en 2 ou 3 prises
-- Cl < 30mL/min : médicament non indiqué ",,,,,,,,,,
-Mirtazapine,Mirtazapine prise à un autre moment de la journée que le soir ,La mirtazapine se prend habituellement au coucher car a des propriétés hypnotiques (risque de somnolence),,,,,,,,,,
-Oxazépam,Prescription d’une BZD à pleine dose chez un sujet âgé ,Une demi-dose est recommandée chez le sujet âgé : max 75mg/jour ,,,,,,,,,,
-Paracétamol,Paracétamol 4g/jour chez un patient âgé de plus de 75 ans  ,Posologie maximale recommandée chez la personne âgée (>75ans) : 3g/jour (500mg à 1g toutes les 4 à 6h),,,,,,,,,,
-Paracétamol,Paracétamol 4g/jour chez un patient <50kg ,"Chez les patients <50kg, posologie maximale recommandée de 60 mg/kg/jour avec prise espacées de minimum 4h ",,,,,,,,,,
-Paracétamol,Posologie de Paracétamol non adaptée à la fonction rénale ,"Posologie recommandée chez l’IR : 
--       GPR",,,,,,,,,,
-Paracétamol,Posologie de Paracétamol non adaptée à la fonction hépatique ,"Posologie recommandée chez l’IH : 
--       Légère à modérée : 3g /jour
--       Sévère : contre-indiquée ",,,,,,,,,,
-Paracétamol,Dépassement de posologie en cas de co-prescription avec formes combinées (palier I et II),"Attention à bien tenir compte du paracétamol déjà prescrit à ce patient pour ne pas dépasser les doses maximales autorisées (1g/prise, 4g/jour). Le XXXX en contient déjà XXX mg ",,,,,,,,,,
-Paracétamol,Paracétamol (IV-PO) avant les soins,"Le délai d’action du paracétamol est de 20 à 60 minutes. Pour un soin avec un maximum d’efficacité, il est conseillé de donner le paracétamol 1h avant",,,,,,,,,,
-Paracétamol,Paracétamol IV et autres PO prescrits,"L'efficacité du paracétamol est identique entre IV et per os (biodisponibilité = 100%). La voie orale est à privilégier : gain de confort pour le patient, gain de temps IDE, Un relais oral peut-il être envisagé ?",,,,,,,,,,
-Paracétamol,Paracétamol effervescent et patient IC,Attention à l’apport sodé du paracétamol effervescent (409mg/cp) chez ce patient cardiaque. Préférer la forme gélule/orodispersible/sachet,,,,,,,,,,
-Prazépam ,Prescription d’une BZD à pleine dose chez un sujet âgé ,Une demi-dose est recommandée chez le sujet âgé : max 15mg/jour ,,,,,,,,,,
-Répaglinide ,HbA1c trop basse par rapport à objectif HbA1c <…%,"L'objectif d'HbA1c pour ce patient est de… %
-Revoir la pertinence du maintien de la thérapeutique antidiabétique. ",,,,,,,,,,
-Répaglinide ,Dernière HbA1c > 6 mois,"La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … %
-Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Répaglinide ,Diabète non équilibré (HbA1C > normes) ,"Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … 
-Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Répaglinide ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies,,,,,,,,,,
-Répaglinide ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète.",,,,,,,,,,
-Répaglinide ,Association avec un sulfamide,"Association contre-indiquée  (risque majoré d'hypoglycémie), le Répaglinide est à associer généralement avec la Metformine. ",,,,,,,,,,
-Répaglinide ,Utilisation en monothérapie,La répaglinide est indiquée est indiquée en association avec la Metformine chez les diabétiques de type II insuffisamment contrôlés par la Metformine ,,,,,,,,,,
-Répaglinide ,Administration et saut d'un repas ,"Ne jamais prendre ce médicament si un repas est supprimé, 1 repas = 1 prise ",,,,,,,,,,
-Rivaroxaban ,"Posologie non adaptée à l'indication : 
-Une prise / jour dans le traitement d'une EP ou TVP ",La posologie recommandée dans le traitement d'une TVP / EP est de 15mg X 2/jour pendant 21 jours suivie par une prolongation de 15 ou 20mg  x 1/jour ,,,,,,,,,,
-Rivaroxaban ,"Posologie non adaptée à l'indication : 
-Dosage à 15 ou 20mg x 1/jour en prévention des ETEV après prothèse de genou ou de hanche ",La posologie recommandée en prévention des ETEV après prothèse de genou ou de hanche est de 10mg x 1 /jour pendant 2 semaines (genou) ou 5 semaines (hanche). ,,,,,,,,,,
-Rivaroxaban ,"Posologie non adaptée à la fonction rénale : 
-20mg x 1/jour chez un patient avec Clr comprise entre 15 et 50mL/min ",La posologie recommandée chez ce patient présentant une clairance rénale à …. est de 15mg x1/jour. ,,,,,,,,,,
-Rivaroxaban ,Prescription chez un patient avec une clairance rénale <  15mL/min ,La prescription de Xarelto n'est pas recommandée chez ce patient au vu de sa clairance rénale : switch par Calciparine 500UI/kg/jour ? ,,,,,,,,,,
-Rivaroxaban ,"Prescription à 10mg 1 x/jour en prévention des récidives d'EP/TVP après au moins 6 mois de traitement. 
-(Chez les patients pour lesquels le risque de récidive de TVP ou d'EP est jugé élevé, par exemple en présence de comorbidités complexes ou lorsqu'une récidive de TVP ou d'EP s'est produite au cours d'une prévention prolongée avec Xarelto 10 mg en une prise quotidienne, la dose de 20 mg de Xarelto en une prise quotidienne doit être envisagée.)",Pas d'IP. Ne pas oublier de tracer l'indication.,,,,,,,,,,
-Rivaroxaban ,Prescription AOD pour TVP/EP sans durée de traitement,La posologie recommandée dans le traitement d'une TVP / EP est de 15mg x2/jour pendant 21 jours suivie par une prolongation de 20mg x 1/jour. Préciser la durée de traitement.,,,,,,,,,,
-Rivaroxaban ,Comprimés écrasés et mélangés à de l'eau ou compote de pomme ,Pas d'IP (l'administration doit être immédiatement suivie par une prise d'aliments),,,,,,,,,,
-Rivaroxaban ,Administration par une sonde gastrique ,"Pas d'IP : le cp écrasé peut être administré au moyen d'une sonde gastrique dans une petite quantité d'eau, l'administration doit être immédiatement suivie d'une alimentation entérale.",,,,,,,,,,
-Rivaroxaban ,Administration en dehors des repas (comprimés à 15 et 20mg) ,Les comprimés de rivaroxaban 15 mg et 20 mg doivent être pris au cours des repas (augmentation significative de la biodisponibilité et de l'AUC) ,,,,,,,,,,
-Rivaroxaban ,Prescription d'AOD en prévention ETEV en post chirurgie autres que genou et hanche ,La prescription d'un AOD n'est pas recommandée dans ce type de chirurgie (ils ont démontré leurs intérêts dans les PTH et les PTG). Est-il possible de revoir cette thromboprophylaxie ? ,,,,,,,,,,
-Rivaroxaban ,Prescription concomitante d'anticoagulant injectable et d'AOD ,Le relai AOD - héparine doit se faire à l'heure prévue de la dose suivante d'AOD : jamais AOD et héparine en concomitance ,,,,,,,,,,
-Rivaroxaban ,Prescription concomitante d'héparine et d'AOD ,Le relai héparine - AOD doit se faire à l'heure prévue de la dose suivante d'héparine : jamais AOD et héparine en concomitance ,,,,,,,,,,
-Rivaroxaban ,Prescription concomitante d'AVK et AOD lors d'un relai AVK - AOD ,"Il est recommandé d'arrêter l'AVK et de commencer le Rivaroxaban quand INR ? 3 (FA) ou INR ? 2,5 (TVP, EP) ",,,,,,,,,,
-Semaglutide,Prescription 1x/jour ,"Le rythme d'administration du Semaglutide est d'une injection de 0,25 / 0,5mg 1x/semaine.",,,,,,,,,,
-Sitagliptine,Posologie non adaptée à la fonction rénale : 100mg/jour et  30mL/min < Cl < 60mL/min ,La posologie recommandée chez ce patient présentant une clairance rénale à …. est de 50mg/jour ,,,,,,,,,,
-Sitagliptine,Posologie non adaptée à la fonction rénale : 50mg/jour et Cl < 30mL/min,"Médicament non indiquée chez ce patient présentant une clairance rénale à …. 
-Possibilité de prescrire la Vildagliptine 50mg 1x/jour. ",,,,,,,,,,
-Sitagliptine ,HbA1c trop basse par rapport à objectif HbA1c <…%,"L'objectif d'HbA1c pour ce patient est de… %
-Revoir la pertinence du maintien de la thérapeutique antidiabétique. ",,,,,,,,,,
-Sitagliptine ,Dernière HbA1c > 6 mois,"La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … %
-Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Sitagliptine ,Diabète non équilibré (HbA1C > normes) ,"Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … 
-Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Sitagliptine ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies,,,,,,,,,,
-Sitagliptine ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète.",,,,,,,,,,
-Valpromide,Pas d'accord de soins ,Un formulaire d'accord de soins doit être signée comme le prévoit l'ANSM.,,,,,,,,,,
-Venlafaxine,Venlafaxine en 2X/jour ,"La venlafaxine étant  à libération prolongée, il n'est pas indiqué de séparer la prise en 2 fois par jour (risque de surdosage).",,,,,,,,,,
-Venlafaxine ,Venlafaxine et HTA ,Risque d'HTA sous Venlafaxine (notamment élévation de la PA dose dépendante fréquemment rapportée avec la Venlafaxine) : Une adaptation posologique de la venlafaxine est-elle possible ? ou un relai avec un autre antidépresseur ?,,,,,,,,,,
-Vildagliptine ,HbA1c trop basse par rapport à objectif HbA1c <…%,"L'objectif d'HbA1c pour ce patient est de… %
-Revoir la pertinence du maintien de la thérapeutique antidiabétique. ",,,,,,,,,,
-Vildagliptine ,Dernière HbA1c > 6 mois,"La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … %
-Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Vildagliptine ,Diabète non équilibré (HbA1C > normes) ,"Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … 
-Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf",,,,,,,,,,
-Vildagliptine ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies,,,,,,,,,,
-Vildagliptine ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète.",,,,,,,,,,
-Vildagliptine ,Posologie à 50mg matin et soir et association à un sulfamide ,La posologie recommandée en association avec un sulfamide hypoglycémiant est de 50mg/jour le matin ,,,,,,,,,,
-Vildagliptine ,Posologie non adaptée à la fonction rénale : 50mg matin et soir et Cl<60mL/min ,La posologie recommandée chez ce patient présentant une clairance rénale à …. est de 50mg 1x/jour,,,,,,,,,,
-Vildagliptine ,Prescription chez la personne âgée ,Il est recommandé la prudence pour l'utilisation de la Vildagliptine chez le sujet âgé (risque de dénutrition et de perte de poids). Réévaluer régulièrement en fonction de la balance bénéfice-risque.,,,,,,,,,,
-Warfarine,AVK : prescrit 2 fois par jour,"Ne pas diviser la posologie d'AVK en 2 fois par jour.
-Privilégier la prise en 1 fois par jour.",,,,,,,,,,
-Warfarine,INR inférieur à la cible. Proposer une adaptation posologique selon THROMBOCLIC,INR trop bas selon cible (2-3). Augmenter la posologie à …mg/j,,,,,,,,,,
-Warfarine,INR supérieur à la cible. Proposer une adaptation posologique selon THROMBOCLIC,INR trop élevé selon cible (2-3). Diminuer la posologie à ….mg/jour,,,,,,,,,,
-Warfarine,"Initiation AVK. 
-Evaluer la possibilité d'un traitement par AOD en première intention (pas de valve mécanique)","Lors d'une initiation d'anticoagulant, les dernières recommandations pour la FA sont de privilégier un AOD en première intention. Si ce n'est pas envisageable, faire le score SAMe-TT2R2, pour évaluer la faisabilité d'un traitement par AVK pour ce patient.",,,,,,,,,,
-Warfarine,"Equilibre INR difficile à obtenir. 
- (pas de valve mécanique)",L'INR du patient est difficile à équilibrer. Envisager un switch vers AOD. Voir Thromboclic pour le switch,,,,,,,,,,
-Zolpidem,Prescription d’un apparenté à BZD à pleine dose chez un sujet âgé ,Une demi-dose est recommandée chez le sujet âgé : max 5mg/jour ,,,,,,,,,,
-Zopiclone,Prescription d’un apparenté à BZD à pleine dose chez un sujet âgé ,"Une demi-dose est recommandée chez le sujet âgé : max 3,75mg/jour ",,,,,,,,,,
+Index,Situation,Paragraphe
+# Choisir un médicament,,
+Acénocoumarol,AVK : prescrit 2 fois par jour,Ne pas diviser la posologie d'AVK en 2 fois par jour.Privilégier la prise en 1 fois par jour.
+Acénocoumarol,INR inférieur à la cible. Proposer une adaptation posologique selon THROMBOCLIC,INR trop bas selon cible (2-3). Augmenter la posologie à …mg/j
+Acénocoumarol,INR supérieur à la cible. Proposer une adaptation posologique selon THROMBOCLIC,INR trop élevé selon cible (2-3). Diminuer la posologie à ….mg/jour
+Acénocoumarol,Initiation AVK. Evaluer la possibilité d'un traitement par AOD en première intention (pas de valve mécanique),"Lors d'une initiation d'anticoagulant, les dernières recommandations pour la FA sont de privilégier un AOD en première intention. Si ce n'est pas envisageable, faire le score SAMe-TT2R2, pour évaluer la faisabilité d'un traitement par AVK pour ce patient."
+Acénocoumarol,Equilibre INR difficile à obtenir.  (pas de valve mécanique),L'INR du patient est difficile à équilibrer. Envisager un switch vers AOD. Voir Thromboclic pour le switch
+AD,Association de 2 antidépresseurs (ex : Mirtazapine / Paroxétine),L'association de 2 antidépresseurs n'est pas recommandée. Privilégier 1 seul antidépresseur à posologie maximale.
+AD,Association de 2 antidépresseurs (ex : Mirtazapine / Paroxétine),L'association de 2 antidépresseurs n'est pas recommandée. Privilégier 1 seul antidépresseur à posologie maximale.
+Alprazolam ,Prescription d’une BZD à pleine dose chez un sujet âgé ,Une demi-dose est recommandée chez le sujet âgé : max 1mg/jour
+Apixaban ,Posologie non adaptée à l'indication : 5mg x 2/jour dans le traitement d'initiation d'une TVP/EP,"La posologie recommandée dans le traitement d'une TVP / EP est de 10mg X 2/jour pendant 7 jours suivie par une prolongation de 5mg x 2/jour pendant 6 mois puis 2,5mg x 2/jour"
+Apixaban ,Posologie non adaptée à l'indication : 5mg x 2/jour en prévention des ETEV après prothèse de genou ou de hanche,"La posologie recommandée en prévention des ETEV après prothèse de genou ou de hanche est de 2,5mg x 2/jour à poursuivre pendant 32 à 38 jours"
+Apixaban ,"Prescription à 5mg x 2/jour (indication FA) et présence de 2 facteurs de risque (Age > 80 ans, Poids < 60kg, Créatinine sérique > 133µmol)","Au vu des facteurs de risque du patient (…./….), la posologie recommandée est de 2,5mg x 2/jour"
+Apixaban ,"Prescription à 2,5mg x 2/jour (indication FA) avec 1 facteur de risque ou sans facteur",La posologie recommandée chez ce patient est de 5mg x 2/jour (risque thrombotique)
+Apixaban ,Posologie non adaptée à la fonction rénale : 5mg x 2/jour chez un patient avec Clr comprise entre 15 et 30mL/min,"La posologie recommandée chez ce patient présentant une clairance rénale à …. est de 2,5mg x2/jour."
+Apixaban ,Prescription chez un patient avec une clairance rénale <  15mL/min,La prescription d'Apixaban n'est pas recommandée chez ce patient au vu de sa clairance rénale : switch par Calciparine 500UI/kg/jour ?
+Apixaban ,Prescription AOD pour TVP/EP sans durée de traitement,"La posologie recommandée dans le traitement d'une TVP / EP est de 10mg X 2/jour pendant 7 jours suivie par une prolongation de 5mg x 2/jour pendant 6 mois puis 2,5mg x 2/jour. Préciser la durée de traitement."
+Apixaban ,Comprimés écrasés et mélangés à de l'eau ou compote de pomme ou jus de pomme ou glucose 5%,Pas d'IP 
+Apixaban ,Administration par une sonde gastrique ,"Pas d'IP : les comprimés doivent être écrasés et mis en suspension dans 60 ml d’eau ou dans du glucose à 5 %, et immédiatement administrés par une sonde nasogastrique."
+Apixaban ,Prescription d'AOD en prévention ETEV en post chirurgie autres que genou et hanche ,La prescription d'un AOD n'est pas recommandée dans ce type de chirurgie (ils ont démontré leurs intérêts dans les PTH et les PTG). Est-il possible de revoir cette thromboprophylaxie ? 
+Apixaban ,Prescription concomitante d'héparine et d'AOD ,Le relai AOD - héparine doit se faire à l'heure prévue de la dose suivante d'AOD : jamais AOD et héparine en concomitance 
+Apixaban ,Prescription concomitante d'héparine et d'AOD ,Le relai héparine - AOD doit se faire à l'heure prévue de la dose suivante d'héparine : jamais AOD et héparine en concomitance 
+Apixaban ,Prescription concomitante d'AVK et AOD lors d'un relai AVK - AOD ,Il est recommandé d'arrêter l'AVK et de commencer l'Apixaban quand INR < 2
+Aripiprazole ,Relai forme oral et IM ,Le traitement par aripiprazole doit être poursuivi pendant 14 jours après la première injection d'aripiprazole : il est conseillé de mettre une date de fin pour l'aripiprazole oral pour éviter un surdosage.
+Bromazépam,Prescription d’une BZD à pleine dose chez un sujet âgé ,Une demi-dose est recommandée chez le sujet âgé : max 3mg/jour
+BZD ,Prescription d’une BZD à demi-vie longue chez un sujet âgé à visée anxiolytique,Préférer les BZD à demi-vie courte chez le sujet âgé (Oxazépam/Alprazolam à posologie minimale efficace)
+BZD ,Prescription d’une BZD à demi-vie longue chez un sujet âgé à visée hypnotique,Préférer les BZD à demi-vie courte chez le sujet âgé (Zolpidem ou Zopiclone à demi-dose)
+BZD ,Association de deux BZD ou d’une BZD et d’un hypnotique ,"Il n'est pas recommandé d'associer …  avec … : même mécanisme d’action, proposer suppression d’une des 2 lignes"
+BZD ,Décroissance de dose de BZD (Ex : de lorazépam 2.5 mg/jour à 1 mg/jour),"Décroître par palier de façon très progressive. (Par exemple Lorazépam : faire un palier à 2 mg/jour, puis un palier à 1.5 mg/jour, avant de passer à 1 mg/jour). Souvent initiation de la décroissance en hospitalisation et information dans la lettre de liaison. https://deprescribing.org/wp-content/uploads/2018/05/deprescribing-algorithm-benzodiazepines-2018-fr.pdf"
+BZD ,BZD et Apnée du sommeil ,"Dans le contexte d'apnée du sommeil, il est conseillé d'arrêter la benzodiazépine progressivement."
+Citalopram,Médicament torsadogène + citalopram/escitalopram,"Pour info, l'association escitalopram + cyamemazine est CI : risque majoré de troubles du rythme ventriculaire, notamment de torsades de pointes. Proposition de substitution par sertraline/miansérine ou arrêt du médicament torsadogène "
+Clobazam,Prescription d’une BZD à pleine dose chez un sujet âgé ,Une demi-dose est recommandée chez le sujet âgé : max 15mg/jour
+Clorazépate,Prescription d’une BZD à pleine dose chez un sujet âgé ,Une demi-dose est recommandée chez le sujet âgé : max 15mg/jour
+Clozapine,Pas de suivi de la NFS ,Il est recommandé de réaliser une NFS à l'initiation : 1 fois par semaine pendant 18 semaines puis 1 fois par mois (risque de neutropénie)
+Dabigatran,Prescription à 150mg x 2/jour (indication FA) chez un patient avec un âge > 80ans ou une Clr entre 30 et 50mL/min ou une gastro-oesophagite/RG ou associé avec une prescription de Vérapamil,La posologie recommandée chez ce patient est de 110mg x 2/jour
+Dabigatran,Prescription à 110mg x 2/jour (indication FA) sans facteur de risque,La posologie recommandée chez ce patient est de 150mg x 2/jour (risque thrombotique)
+Dabigatran,Prescription chez un patient avec une clairance rénale <  15mL/min,La prescription de Dabigatran n'est pas recommandée chez ce patient au vu de sa clairance rénale : switch par Calciparine 500UI/kg/jour  ?
+Dabigatran,Prescription d'AOD en prévention ETEV en post chirurgie autres que genou et hanche ,La prescription d'un AOD n'est pas recommandée dans ce type de chirurgie (ils ont démontré leurs intérêts dans les PTH et les PTG). Est-il possible de revoir cette thromboprophylaxie ? 
+Dabigatran,Prescription concomitante d'héparine et d'AOD ,Le relai AOD - héparine doit se faire à l'heure prévue de la dose suivante d'AOD : jamais AOD et héparine en concomitance 
+Dabigatran,Prescription concomitante d'héparine et d'AOD ,Le relai héparine - AOD doit se faire à l'heure prévue de la dose suivante d'héparine : jamais AOD et héparine en concomitance 
+Dabigatran ,Prescription de Vérapamil à distance de la prise de Dabigatran 110mg x 2 /jour,Les 2 médicaments doivent être pris simultanément.
+Dabigatran ,Ouverture des gélules ,"Les gélules doivent être avalées entières avec un verre d'eau pour faciliter la distribution dans l'estomac, elles ne doivent pas être ouvertes, car cela pourrait augmenter le risque de saignement."
+Dabigatran ,Prescription concomitante d'AVK et AOD lors d'un relai AVK - AOD ,Il est recommandé d'arrêter l'AVK et de commencer le Dabigatran quand INR < 2
+Dapagliflozine ,HbA1c trop basse par rapport à objectif HbA1c <…%,L'objectif d'HbA1c pour ce patient est de… % Revoir la pertinence du maintien de la thérapeutique antidiabétique.
+Dapagliflozine ,Dernière HbA1c > 6 mois,La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … % Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Dapagliflozine ,Diabète non équilibré (HbA1C > normes),Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Dapagliflozine ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies
+Dapagliflozine ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète."
+Dapagliflozine ,Posologie initiale non adaptée en cas d'IH sévère,La posologie initiale recommandée chez l'IH sévère est de 5mg au lieu de 10mg.
+Dapagliflozine ,Posologie non adaptée à la fonction rénale : Cl<60mL/min,"Dans le traitement du diabète, il est recommandé de ne pas initier la Dapagliflozine chez le patient ayant une Cl <60ml/min et d'arrêter si la Cl est <45ml/min de manière constante"
+Diazépam,Prescription d’une BZD à pleine dose chez un sujet âgé ,Une demi-dose est recommandée chez le sujet âgé : max 10mg/jour
+Dulaglutide,Prescription 1x/jour,"Le rythme d'administration est d'une injection de 1,5mg  1x/semaine (0,75mg en monothérapie NR)  Ne pas prescrire en stylo mais en mg."
+Dulaglutide ,HbA1c trop basse par rapport à objectif HbA1c <…%,L'objectif d'HbA1c pour ce patient est de… % Revoir la pertinence du maintien de la thérapeutique antidiabétique.
+Dulaglutide ,Dernière HbA1c > 6 mois,La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … % Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Dulaglutide ,Diabète non équilibré (HbA1C > normes),Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Dulaglutide ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies
+Dulaglutide ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète."
+Escitalopram,Médicament torsadogène + citalopram/escitalopram,"Pour info, l'association escitalopram + cyamemazine est CI : risque majoré de troubles du rythme ventriculaire, notamment de torsades de pointes.  Proposition de substitution par sertraline/miansérine ou arrêt du médicament torsadogène "
+Exénatide ,HbA1c trop basse par rapport à objectif HbA1c <…%,L'objectif d'HbA1c pour ce patient est de… % Revoir la pertinence du maintien de la thérapeutique antidiabétique.
+Exénatide ,Dernière HbA1c > 6 mois,La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … % Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Exénatide ,Diabète non équilibré (HbA1C > normes),Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Exénatide ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies
+Exénatide ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète."
+Exénatide (BYETTA®) ,Prescription 1x/semaine,Le rythme d'administration du BYETTA® est d'une injection de 5 ou 10µg 2x/jour.
+Exénatide forme retard (BYDUREON®) ,Prescription 1x/jour,Le rythme d'administration du BYDUREON® est d'une injection de 2mg 1x/semaine.
+Fluindione,AVK : prescrit 2 fois par jour,Ne pas diviser la posologie d'AVK en 2 fois par jour. Privilégier la prise en 1 fois par jour.
+Fluindione,INR inférieur à la cible. Proposer une adaptation posologique selon THROMBOCLIC,INR trop bas selon cible (2-3). Augmenter la posologie à …mg/j
+Fluindione,INR supérieur à la cible. Proposer une adaptation posologique selon THROMBOCLIC,INR trop élevé selon cible (2-3). Diminuer la posologie à ….mg/jour
+Fluindione,Initiation Fluindione. Plus recommandée depuis 2018,"Il n'est plus recommandé d'initier un traitement par fluindione depuis 2018 (cf lien : ""la spécialité PREVISCAN est à présent réservée au renouvellement du traitement des patients équilibrés par fluindione. L'initiation de traitement par PREVISCAN n'est plus autorisée à partir du 1er décembre 2018"" : https://ansm.sante.fr/informations-de-securite/Traitement-par-antivitamines-K-AVK-nouvelles-informations) Risque anaphylactique"
+Fluindione,Equilibre INR difficile à obtenir.  (pas de valve mécanique),L'INR du patient est difficile à équilibrer. Envisager un switch vers AOD. Voir Thromboclic pour le switch
+Glibenclamide,HbA1c trop basse par rapport à objectif HbA1c <…%,L'objectif d'HbA1c pour ce patient est de… % Revoir la pertinence du maintien de la thérapeutique antidiabétique.
+Glibenclamide,Dernière HbA1c > 6 mois,La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … % Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Glibenclamide,Diabète non équilibré (HbA1C > normes),Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Glibenclamide,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies
+Glibenclamide,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète."
+Glibenclamide,Association avec Répaglinide ,"Association contre-indiquée  (risque majoré d'hypoglycémie), le Répaglinide est à associer généralement avec la Metformine. "
+Glibenclamide,Prescription chez la personne âgée ,Les sulfamides hypoglycémiants (notamment Glibenclamide = sulfamide à longue durée d'action) sont des médicaments potentiellement inappropriés chez le sujet âgé car risque accru d'hypoglycémies sévères. Revoir la thérapeutique antidiabétique selon objectif HbA1c de de ce patient.
+Gliclazide ,HbA1c trop basse par rapport à objectif HbA1c <…%,L'objectif d'HbA1c pour ce patient est de… % Revoir la pertinence du maintien de la thérapeutique antidiabétique.
+Gliclazide ,Dernière HbA1c > 6 mois,La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … % Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Gliclazide ,Diabète non équilibré (HbA1C > normes),Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Gliclazide ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies
+Gliclazide ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète."
+Gliclazide ,Association avec Répaglinide ,"Association contre-indiquée (risque majoré d'hypoglycémie), le Répaglinide est à associer généralement avec la Metformine. "
+Gliclazide ,Prescription chez la personne âgée ,Les sulfamides hypoglycémiants sont des médicaments potentiellement inappropriés chez le sujet âgé car risque accru d'hypoglycémies sévères. Revoir la thérapeutique antidiabétique selon objectif HbA1c de de ce patient.
+Glimépiride ,HbA1c trop basse par rapport à objectif HbA1c <…%,L'objectif d'HbA1c pour ce patient est de… % Revoir la pertinence du maintien de la thérapeutique antidiabétique.
+Glimépiride ,Dernière HbA1c > 6 mois,La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … % Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Glimépiride ,Diabète non équilibré (HbA1C > normes),Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Glimépiride ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies
+Glimépiride ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète."
+Glimépiride ,Association avec Répaglinide ,"Association contre-indiquée  (risque majoré d'hypoglycémie), le Répaglinide est à associer généralement avec la Metformine. "
+Glimépiride ,Prescription chez la personne âgée ,Les sulfamides hypoglycémiants sont des médicaments potentiellement inappropriés chez le sujet âgé car risque accru d'hypoglycémies sévères. Revoir la thérapeutique antidiabétique selon objectif HbA1c de de ce patient.
+Hydroxyzine ,Prescription d'Hydroxyzine chez un sujet âgé,Hydroxyzine non recommandée chez le sujet âgé  => préférer l’usage de BZD à demi-vie courte (Ex : oxazépam)
+Hydroxyzine ,Médicament torsadogène + hydroxyzine (indiqué en hypnotique),Proposition d'arrêt de l'Hydroxyzine (éventuellement substitution par une benzodiazépine à demi-vie courte (Oxazépam - posologie minimale efficace))
+Hydroxyzine ,Médicament torsadogène + hydroxyzine (indiqué en anxiolytique),Proposition de substitution par une benzodiazépine (si traitement de courte durée) ou envisager l'arrêt
+Insuline asparte,HbA1c trop basse par rapport à objectif HbA1c <…%,L'objectif d'HbA1c pour ce patient est de… % Revoir la pertinence du maintien de la thérapeutique antidiabétique.
+Insuline asparte,Dernière HbA1c > 6 mois,La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … % Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Insuline asparte,Diabète non équilibré (HbA1C > normes),Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Insuline asparte,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies
+Insuline asparte,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète."
+Insuline déglutec,HbA1c trop basse par rapport à objectif HbA1c <…%,L'objectif d'HbA1c pour ce patient est de… % Revoir la pertinence du maintien de la thérapeutique antidiabétique.
+Insuline déglutec,Dernière HbA1c > 6 mois,La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … % Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Insuline déglutec,Diabète non équilibré (HbA1C > normes),Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Insuline déglutec,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies
+Insuline déglutec,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète."
+Insuline détémir ,HbA1c trop basse par rapport à objectif HbA1c <…%,L'objectif d'HbA1c pour ce patient est de… % Revoir la pertinence du maintien de la thérapeutique antidiabétique.
+Insuline détémir ,Dernière HbA1c > 6 mois,La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … % Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Insuline détémir ,Diabète non équilibré (HbA1C > normes),Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Insuline détémir ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies
+Insuline détémir ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète."
+Insuline glargine ,HbA1c trop basse par rapport à objectif HbA1c <…%,L'objectif d'HbA1c pour ce patient est de… % Revoir la pertinence du maintien de la thérapeutique antidiabétique.
+Insuline glargine ,Dernière HbA1c > 6 mois,La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … % Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Insuline glargine ,Diabète non équilibré (HbA1C > normes),Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Insuline glargine ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies
+Insuline glargine ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète."
+Insuline glargine ,Prescription 2x/jour,Pas d'IP (15% patients stabilisés par insuline lente en 2/jour)
+Liraglutide,Prescription 1x/semaine,"Le rythme d'administration du Liraglutide est d'une injection de 0,6 / 1,2 / 1,8mg 1x/jour."
+Liraglutide ,HbA1c trop basse par rapport à objectif HbA1c <…%,L'objectif d'HbA1c pour ce patient est de… % Revoir la pertinence du maintien de la thérapeutique antidiabétique.
+Liraglutide ,Dernière HbA1c > 6 mois,La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … % Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Liraglutide ,Diabète non équilibré (HbA1C > normes),Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Liraglutide ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies
+Liraglutide ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète."
+Lorazépam,Prescription d’une BZD à pleine dose chez un sujet âgé ,"Une demi-dose est recommandée chez le sujet âgé : max 3,75mg/jour"
+Lormétazépam,Prescription d’une BZD à pleine dose chez un sujet âgé ,Une demi-dose est recommandée chez le sujet âgé : max 1mg/jour
+Metformine ,HbA1c trop basse par rapport à objectif HbA1c <…%,L'objectif d'HbA1c pour ce patient est de… % Revoir la pertinence du maintien de la thérapeutique antidiabétique.
+Metformine ,Dernière HbA1c > 6 mois,La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … % Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Metformine ,Diabète non équilibré (HbA1C > normes),Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Metformine ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies
+Metformine ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète."
+Metformine ,"Apparition de troubles digestifs (nausées, diarrhées, douleurs abdo.) après instauration de la Metformine ","Les troubles digestifs après instauration de la Metformine sont dose dépendants, souvent transitoires et prévenus par la prise au cours des repas, l'augmentation progressive des doses, l'association à des antispasmodiques ou des pansements digestifs. Il est conseillé l'arrêt de la prescription si persistance. L'augmentation progressive des doses doit être faite jusqu'à la dose maximale tolérée (selon les troubles digestifs)."
+Metformine ,Posologie non adaptée à la fonction rénale ,La posologie recommandée de Metformine pour ce patient avec une clairance rénale de … est de : - 45mL/min < Cl < 60mL/min : posologie maximale : 2000 mg/j en 2 ou 3 prises - 30 < Cl < 45mL/min : posologie maximale : 1000 mg/j en 2 ou 3 prises- Cl < 30mL/min : médicament non indiqué
+Mirtazapine,Mirtazapine prise à un autre moment de la journée que le soir ,La mirtazapine se prend habituellement au coucher car a des propriétés hypnotiques (risque de somnolence)
+Oxazépam,Prescription d’une BZD à pleine dose chez un sujet âgé ,Une demi-dose est recommandée chez le sujet âgé : max 75mg/jour
+Paracétamol,Paracétamol 4g/jour chez un patient âgé de plus de 75 ans,Posologie maximale recommandée chez la personne âgée (>75ans) : 3g/jour (500mg à 1g toutes les 4 à 6h)
+Paracétamol,Paracétamol 4g/jour chez un patient <50kg,"Chez les patients <50kg, posologie maximale recommandée de 60 mg/kg/jour avec prise espacées de minimum 4h"
+Paracétamol,Posologie de Paracétamol non adaptée à la fonction rénale ,Posologie recommandée chez l’IR : GPR
+Paracétamol,Posologie de Paracétamol non adaptée à la fonction hépatique ,Posologie recommandée chez l’IH :  Légère à modérée : 3g /jour - Sévère : contre-indiquée
+Paracétamol,Dépassement de posologie en cas de co-prescription avec formes combinées (palier I et II),"Attention à bien tenir compte du paracétamol déjà prescrit à ce patient pour ne pas dépasser les doses maximales autorisées (1g/prise, 4g/jour). Le XXXX en contient déjà XXX mg"
+Paracétamol,Paracétamol (IV-PO) avant les soins,"Le délai d’action du paracétamol est de 20 à 60 minutes. Pour un soin avec un maximum d’efficacité, il est conseillé de donner le paracétamol 1h avant"
+Paracétamol,Paracétamol IV et autres PO prescrits,"L'efficacité du paracétamol est identique entre IV et per os (biodisponibilité = 100%). La voie orale est à privilégier : gain de confort pour le patient, gain de temps IDE, Un relais oral peut-il être envisagé ?"
+Paracétamol,Paracétamol effervescent et patient IC,Attention à l’apport sodé du paracétamol effervescent (409mg/cp) chez ce patient cardiaque. Préférer la forme gélule/orodispersible/sachet
+Prazépam ,Prescription d’une BZD à pleine dose chez un sujet âgé ,Une demi-dose est recommandée chez le sujet âgé : max 15mg/jour
+Répaglinide ,HbA1c trop basse par rapport à objectif HbA1c <…%,L'objectif d'HbA1c pour ce patient est de… % Revoir la pertinence du maintien de la thérapeutique antidiabétique.
+Répaglinide ,Dernière HbA1c > 6 mois,La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … % Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Répaglinide ,Diabète non équilibré (HbA1C > normes),Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Répaglinide ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies
+Répaglinide ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète."
+Répaglinide ,Association avec un sulfamide,"Association contre-indiquée  (risque majoré d'hypoglycémie), le Répaglinide est à associer généralement avec la Metformine. "
+Répaglinide ,Utilisation en monothérapie,La répaglinide est indiquée est indiquée en association avec la Metformine chez les diabétiques de type II insuffisamment contrôlés par la Metformine 
+Répaglinide ,Administration et saut d'un repas ,"Ne jamais prendre ce médicament si un repas est supprimé, 1 repas = 1 prise"
+Rivaroxaban ,Posologie non adaptée à l'indication :  Une prise / jour dans le traitement d'une EP ou TVP ,La posologie recommandée dans le traitement d'une TVP / EP est de 15mg X 2/jour pendant 21 jours suivie par une prolongation de 15 ou 20mg  x 1/jour
+Rivaroxaban ,Posologie non adaptée à l'indication :  Dosage à 15 ou 20mg x 1/jour en prévention des ETEV après prothèse de genou ou de hanche,La posologie recommandée en prévention des ETEV après prothèse de genou ou de hanche est de 10mg x 1 /jour pendant 2 semaines (genou) ou 5 semaines (hanche).
+Rivaroxaban ,Posologie non adaptée à la fonction rénale :  20mg x 1/jour chez un patient avec Clr comprise entre 15 et 50mL/min,La posologie recommandée chez ce patient présentant une clairance rénale à …. est de 15mg x1/jour.
+Rivaroxaban ,Prescription chez un patient avec une clairance rénale <  15mL/min,La prescription de Xarelto n'est pas recommandée chez ce patient au vu de sa clairance rénale : switch par Calciparine 500UI/kg/jour ?
+Rivaroxaban ,"Prescription à 10mg 1 x/jour en prévention des récidives d'EP/TVP après au moins 6 mois de traitement. (Chez les patients pour lesquels le risque de récidive de TVP ou d'EP est jugé élevé, par exemple en présence de comorbidités complexes ou lorsqu'une récidive de TVP ou d'EP s'est produite au cours d'une prévention prolongée avec Xarelto 10 mg en une prise quotidienne, la dose de 20 mg de Xarelto en une prise quotidienne doit être envisagée.)",Pas d'IP. Ne pas oublier de tracer l'indication.
+Rivaroxaban ,Prescription AOD pour TVP/EP sans durée de traitement,La posologie recommandée dans le traitement d'une TVP / EP est de 15mg x2/jour pendant 21 jours suivie par une prolongation de 20mg x 1/jour. Préciser la durée de traitement.
+Rivaroxaban ,Comprimés écrasés et mélangés à de l'eau ou compote de pomme ,Pas d'IP (l'administration doit être immédiatement suivie par une prise d'aliments)
+Rivaroxaban ,Administration par une sonde gastrique ,"Pas d'IP : le cp écrasé peut être administré au moyen d'une sonde gastrique dans une petite quantité d'eau, l'administration doit être immédiatement suivie d'une alimentation entérale."
+Rivaroxaban ,Administration en dehors des repas (comprimés à 15 et 20mg),Les comprimés de rivaroxaban 15 mg et 20 mg doivent être pris au cours des repas (augmentation significative de la biodisponibilité et de l'AUC)
+Rivaroxaban ,Prescription d'AOD en prévention ETEV en post chirurgie autres que genou et hanche ,La prescription d'un AOD n'est pas recommandée dans ce type de chirurgie (ils ont démontré leurs intérêts dans les PTH et les PTG). Est-il possible de revoir cette thromboprophylaxie ? 
+Rivaroxaban ,Prescription concomitante d'anticoagulant injectable et d'AOD ,Le relai AOD - héparine doit se faire à l'heure prévue de la dose suivante d'AOD : jamais AOD et héparine en concomitance 
+Rivaroxaban ,Prescription concomitante d'héparine et d'AOD ,Le relai héparine - AOD doit se faire à l'heure prévue de la dose suivante d'héparine : jamais AOD et héparine en concomitance 
+Rivaroxaban ,Prescription concomitante d'AVK et AOD lors d'un relai AVK - AOD ,"Il est recommandé d'arrêter l'AVK et de commencer le Rivaroxaban quand INR ? 3 (FA) ou INR ? 2,5 (TVP, EP)"
+Semaglutide,Prescription 1x/jour,"Le rythme d'administration du Semaglutide est d'une injection de 0,25 / 0,5mg 1x/semaine."
+Sitagliptine,Posologie non adaptée à la fonction rénale : 100mg/jour et  30mL/min < Cl < 60mL/min,La posologie recommandée chez ce patient présentant une clairance rénale à …. est de 50mg/jour
+Sitagliptine,Posologie non adaptée à la fonction rénale : 50mg/jour et Cl < 30mL/min,Médicament non indiquée chez ce patient présentant une clairance rénale à …. Possibilité de prescrire la Vildagliptine 50mg 1x/jour.
+Sitagliptine ,HbA1c trop basse par rapport à objectif HbA1c <…%,L'objectif d'HbA1c pour ce patient est de… % Revoir la pertinence du maintien de la thérapeutique antidiabétique.
+Sitagliptine ,Dernière HbA1c > 6 mois,La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … % Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Sitagliptine ,Diabète non équilibré (HbA1C > normes),Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Sitagliptine ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies
+Sitagliptine ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète."
+Valpromide,Pas d'accord de soins ,Un formulaire d'accord de soins doit être signée comme le prévoit l'ANSM.
+Venlafaxine,Venlafaxine en 2X/jour,"La venlafaxine étant  à libération prolongée, il n'est pas indiqué de séparer la prise en 2 fois par jour (risque de surdosage)."
+Venlafaxine ,Venlafaxine et HTA ,Risque d'HTA sous Venlafaxine (notamment élévation de la PA dose dépendante fréquemment rapportée avec la Venlafaxine) : Une adaptation posologique de la venlafaxine est-elle possible ? ou un relai avec un autre antidépresseur ?
+Vildagliptine ,HbA1c trop basse par rapport à objectif HbA1c <…%,L'objectif d'HbA1c pour ce patient est de… % Revoir la pertinence du maintien de la thérapeutique antidiabétique.
+Vildagliptine ,Dernière HbA1c > 6 mois,La dernière HbA1c remonte à plus de 6 mois. Merci de prévoir un dosage. Objectif chez ce patient de … % Recos : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Vildagliptine ,Diabète non équilibré (HbA1C > normes),Proposition de revoir la stratégie thérapeutique chez ce patient avec HbA1C = … Recos (à actualiser) : https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_position_sfd_dt2_tt_v_finale.pdf
+Vildagliptine ,Association à corticoïdes,L'association d'un traitement antidiabétique avec des corticoïdes peut deséquilibrer le diabète. Surveillance renforcée des glycémies
+Vildagliptine ,Contexte infectieux et diabète,"Dans le contexte d'infection chez ce patient, il est recommandé de rapprocher les surveillances glycémiques car cela pourrait déséquilibrer le diabète."
+Vildagliptine ,Posologie à 50mg matin et soir et association à un sulfamide,La posologie recommandée en association avec un sulfamide hypoglycémiant est de 50mg/jour le matin
+Vildagliptine ,Posologie non adaptée à la fonction rénale : 50mg matin et soir et Cl<60mL/min,La posologie recommandée chez ce patient présentant une clairance rénale à …. est de 50mg 1x/jour
+Vildagliptine ,Prescription chez la personne âgée ,Il est recommandé la prudence pour l'utilisation de la Vildagliptine chez le sujet âgé (risque de dénutrition et de perte de poids). Réévaluer régulièrement en fonction de la balance bénéfice-risque.
+Warfarine,AVK : prescrit 2 fois par jour,Ne pas diviser la posologie d'AVK en 2 fois par jour. Privilégier la prise en 1 fois par jour.
+Warfarine,INR inférieur à la cible. Proposer une adaptation posologique selon THROMBOCLIC,INR trop bas selon cible (2-3). Augmenter la posologie à …mg/j
+Warfarine,INR supérieur à la cible. Proposer une adaptation posologique selon THROMBOCLIC,INR trop élevé selon cible (2-3). Diminuer la posologie à ….mg/jour
+Warfarine,Initiation AVK.  Evaluer la possibilité d'un traitement par AOD en première intention (pas de valve mécanique),"Lors d'une initiation d'anticoagulant, les dernières recommandations pour la FA sont de privilégier un AOD en première intention. Si ce n'est pas envisageable, faire le score SAMe-TT2R2, pour évaluer la faisabilité d'un traitement par AVK pour ce patient."
+Warfarine,Equilibre INR difficile à obtenir.  (pas de valve mécanique),L'INR du patient est difficile à équilibrer. Envisager un switch vers AOD. Voir Thromboclic pour le switch
+Zolpidem,Prescription d’un apparenté à BZD à pleine dose chez un sujet âgé ,Une demi-dose est recommandée chez le sujet âgé : max 5mg/jour
+Zopiclone,Prescription d’un apparenté à BZD à pleine dose chez un sujet âgé ,"Une demi-dose est recommandée chez le sujet âgé : max 3,75mg/jour"

@@ -22,16 +22,17 @@ option = st.sidebar.selectbox(
      liste_medoc)
 
 col1, col2 = st.columns([1, 3])
+col1.subheader('Médicament')
+col2.subheader('Intervention pharmaceutiques - à adapter selon contexte')
 
-col1.subheader('Liste des médicaments')
-col1.write(option)
-with col2 :
-    st.subheader('Intervention pharmaceutiques - à adapter selon contexte')
-    with st.expander("Interventions"):                                  
-         compteur = 0
-         for i in data_frame.index: 
-             if i == option:
-                 compteur += 1
+if option =! "# Choisir un médicament" :
+   col1.write(option)
+   with col2 :
+       with st.expander("Interventions"):                                  
+            compteur = 0
+            for i in data_frame.index: 
+                if i == option:
+                    compteur += 1
 
          for i in range(compteur):
              txt = st.text_area(f"{data_frame.loc[{option}, 'Situation'][i]}", f"{data_frame.loc[{option}, 'Paragraphe'][i]}", key = option)

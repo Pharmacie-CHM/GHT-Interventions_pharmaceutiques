@@ -25,7 +25,7 @@ col1, col2 = st.columns([1, 3])
 col1.subheader('Médicament')
 col2.subheader('Intervention pharmaceutiques - à adapter selon contexte')
 
-if option =! "# Choisir un médicament" :
+if option != "# Choisir un médicament" :
    col1.write(option)
    with col2 :
        with st.expander("Interventions"):                                  

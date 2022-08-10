@@ -1,6 +1,11 @@
 import streamlit as st
 import pandas as pd
 
+st.set_page_config(
+   page_title="GHT72",
+   page_icon="💊",
+   layout="wide"
+)
 logo = st.sidebar.image('Logo_GHT72.png')
 st.sidebar.caption("Thesaurus des interventions pharmaceutiques du GHT72 - Groupe Pharmacie clinique")
 

@@ -34,5 +34,5 @@ if option != "# Choisir un médicament" :
                 if i == option:
                     compteur += 1
 
-         for i in range(compteur):
-             txt = st.text_area(f"{data_frame.loc[{option}, 'Situation'][i]}", f"{data_frame.loc[{option}, 'Paragraphe'][i]}", key = option)
+            for i in range(compteur):
+                txt = st.text_area(f"{data_frame.loc[{option}, 'Situation'][i]}", f"{data_frame.loc[{option}, 'Paragraphe'][i]}", key = option)

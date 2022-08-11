@@ -28,11 +28,11 @@ col2.subheader('Intervention pharmaceutiques - à adapter selon contexte')
 if option != "# Choisir un médicament" :
    col1.write(option)
    with col2 :
-       with st.expander("Interventions"):                                  
-            compteur = 0
-            for i in data_frame.index: 
-                if i == option:
-                    compteur += 1
+#     with st.expander("Interventions"):                                  
+      compteur = 0
+      for i in data_frame.index: 
+          if i == option:
+              compteur += 1
 
-            for i in range(compteur):
-                txt = st.text_area(f"{data_frame.loc[{option}, 'Situation'][i]}", f"{data_frame.loc[{option}, 'Paragraphe'][i]}", key = option)
+      for i in range(compteur):
+          txt = st.text_area(f"{data_frame.loc[{option}, 'Situation'][i]}", f"{data_frame.loc[{option}, 'Paragraphe'][i]}", key = option)
